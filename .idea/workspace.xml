@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74ddbd72-f184-45dc-998f-f9e1072efc19" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/声子晶体挠曲电.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PC(flex)1 [H=1e-09, n=6]" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PC2 [H=1e-09, n=7].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SW_elastic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SW_elastic_det.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SW_flex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SW_flex_det.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/PC(flex)1 [H=1e-09, n=6]" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/PWE(elastic) [H=%s, n=%s].xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/PWE(elastic)2019-06-13 15-39-57 [H=0.001, n=5].xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/PWE(elastic)2019-06-13 15-45-47 [H=1e-09, n=6].xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/PWE(elastic)2019-06-13 16-06-18 [H=1e-08, n=6].xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/PWE(elastic)2019-06-13 16-13-33 [H=1e-08, n=6].xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/PWE(elastic)2019-06-13 16-25-37 [H=1e-08, n=6].xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/PWE(elastic)2019-06-13 16-29-16 [H=0.001, n=6].xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/PWE(elastic)2019-06-13 16-37-08 [H=0.001, n=6].xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/PWE(elastic)2019-06-13 16-46-22 [H=1e-06, n=8].xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/PWE(elastic)2019-06-13 16-54-34 [H=1e-09, n=8].xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/PWE(elastic)2019-06-13 16-54-52 [H=1e-09, n=5].xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/PWE(elastic)2019-06-13 17-07-35 [H=1e-09, n=7, l1=0.015, l2=0.005].xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/PWE(elastic)2019-06-13 17-30-59 [H=1e-09, n=6, l1=0.001, l2=0.005].xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/PWE(elastic)2019-06-14 16-48-20 [H=1e-07, n=5, l1=0.01, l2=0.02].xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/PWE(elastic)2019-06-14 16-57-45 [H=1e-07, n=5, l1=0.01, l2=0.01].xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/PWE(elastic)2019-06-14 17-05-14 [H=0.005, n=5, l1=0.01, l2=0.01].xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/PWE(flex)2019-06-13 17-54-04 [H=1e-09, n=5, l1=0.015, l2=0.025].xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/PWE(flex)2019-06-13 18-31-31 [H=1e-09, n=5, l1=0.005, l2=0.008].xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fig/PC2 [H=1e-09, n=7].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fig/PWE(elastic) [H=0.001, n=5].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fig/PWE(elastic) [H=0.001, n=6].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fig/PWE(elastic) [H=0.005, n=5, l1=0.01, l2=0.01].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fig/PWE(elastic) [H=1e-06, n=8].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fig/PWE(elastic) [H=1e-07, n=5, l1=0.01, l2=0.01].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fig/PWE(elastic) [H=1e-07, n=5, l1=0.01, l2=0.02].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fig/PWE(elastic) [H=1e-08, n=5].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fig/PWE(elastic) [H=1e-08, n=6].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fig/PWE(elastic) [H=1e-09, n=6, l1=0.001, l2=0.005].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fig/PWE(elastic) [H=1e-09, n=6, l1=0.005, l2=0.008].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fig/PWE(elastic) [H=1e-09, n=6].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fig/PWE(elastic) [H=1e-09, n=7, l1=0.015, l2=0.005].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fig/PWE(elastic) [H=1e-09, n=8].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fig/PWE(flex) [H=1e-09, n=5, l1=0.005, l2=0.008].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fig/PWE(flex) [H=1e-09, n=5, l1=0.015, l2=0.025].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fig/det(flex) [H=1e-09, n=5, l1=0.005, l2=0.008, k=0.4].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fig/det(flex) [H=1e-09, n=5, l1=0.005, l2=0.008, k=0.6].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fig/det(flex) [H=1e-09, n=5, l1=0.015, l2=0.025, k=0.4].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fig/det(flex) [H=1e-09, n=5, l1=0.015, l2=0.025].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/作图2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多进程flex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/材料参数.xls" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/$SW_elastic.coverage" NAME="SW_elastic Coverage Results" MODIFIED="1560502832934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$SW_flex_det.coverage" NAME="SW_flex_det Coverage Results" MODIFIED="1560430133980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1560490820936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$SW_flex.coverage" NAME="SW_flex Coverage Results" MODIFIED="1560490950906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-594011302">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="334" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="334" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SW_elastic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1292">
+              <caret line="168" column="12" lean-forward="true" selection-start-line="168" selection-start-column="12" selection-end-line="168" selection-end-column="12" />
+              <folding>
+                <element signature="e#75#87#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SW_flex_det.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2430">
+              <caret line="92" column="25" selection-start-line="92" selection-start-column="25" selection-end-line="92" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SW_flex.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3942">
+              <caret line="150" selection-start-line="150" selection-end-line="158" selection-end-column="24" />
+              <folding>
+                <element signature="e#75#87#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/作图2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2106">
+              <caret line="80" column="58" selection-start-line="80" selection-start-column="45" selection-end-line="80" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SW_elastic_det.py" />
+        <option value="$PROJECT_DIR$/SW_flex_det.py" />
+        <option value="$PROJECT_DIR$/test1.py" />
+        <option value="$PROJECT_DIR$/SW_flex.py" />
+        <option value="$PROJECT_DIR$/SW_elastic.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="声子晶体挠曲电" type="b2602c69:ProjectViewProjectNode" />
+              <item name="声子晶体挠曲电" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/fig" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.SW_elastic">
+    <configuration name="SW_elastic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="声子晶体挠曲电" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SW_elastic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SW_flex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="声子晶体挠曲电" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SW_flex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SW_flex_det" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="声子晶体挠曲电" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SW_flex_det.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="声子晶体挠曲电" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.SW_elastic" />
+      <item itemvalue="Python.SW_flex" />
+      <item itemvalue="Python.SW_flex_det" />
+      <item itemvalue="Python.test1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.SW_elastic" />
+        <item itemvalue="Python.SW_flex" />
+        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.SW_flex_det" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74ddbd72-f184-45dc-998f-f9e1072efc19" name="Default Changelist" comment="" />
+      <created>1560408694441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560408694441</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37593183" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.399361" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32942432" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/fig/PWE(elastic) [H=1e-08, n=5].png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SW_elastic_det.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/ProgramData/Anaconda3/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="320" selection-start-line="320" selection-end-line="320" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SW_elastic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="168" column="12" lean-forward="true" selection-start-line="168" selection-start-column="12" selection-end-line="168" selection-end-column="12" />
+          <folding>
+            <element signature="e#75#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SW_flex_det.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2430">
+          <caret line="92" column="25" selection-start-line="92" selection-start-column="25" selection-end-line="92" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SW_flex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3942">
+          <caret line="150" selection-start-line="150" selection-end-line="158" selection-end-column="24" />
+          <folding>
+            <element signature="e#75#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/作图2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2106">
+          <caret line="80" column="58" selection-start-line="80" selection-start-column="45" selection-end-line="80" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
